@@ -99,12 +99,6 @@ This obviously requires internet connection.
 
 Create the subfolders if necessary.
 
-## Custom maps
-
-* Open the `halo ce custom maps bundle` folder.
-
-* Copy alls `*.map` files to `C:\Program Files (x86)\Microsoft Games\Halo Custom Edition\maps`.
-
 ## Offline test
 
 * Disconnect your computer from the internet.
@@ -118,6 +112,12 @@ This command starts the developer console.
 * Enter `optic load halo4`
 
 Loads the halo4 medal pack.
+
+## Custom maps
+
+* Open the `halo ce custom maps bundle` folder.
+
+* Copy alls `*.map` files to `C:\Program Files (x86)\Microsoft Games\Halo Custom Edition\maps`.
 
 ## Keyboard shortcuts
 
