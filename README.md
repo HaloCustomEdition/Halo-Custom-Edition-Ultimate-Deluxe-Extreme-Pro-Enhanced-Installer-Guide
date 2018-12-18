@@ -13,10 +13,6 @@ Download and unzip the file bundles:
 
 * Open the `halo ce installer bundle` folder.
 
-* Install `7z1805-x64.exe`.
-
-7zip is required to unzip compressed files.
-
 * Install `vcredist_x86.exe`.
 
 Contains the latest C++ distributables.
@@ -151,8 +147,7 @@ Use the following PowerShell functions to validate hash values for the installer
 
 ```powershell
 $files = @(
-    "7z1805-x64.exe",
-    "haloce_mp_semirefined_r8.7z",
+    "haloce_mp_semirefined_r8.zip",
     "Universal_UI_Version_1.1.zip",
     "vcredist_x86.exe",
     "dxwebsetup.exe",
@@ -181,8 +176,7 @@ $hashes | ConvertTo-Json | Set-Content "hahses.json"
 
 ```powershell
 $files = @(
-    "7z1805-x64.exe",
-    "haloce_mp_semirefined_r8.7z",
+    "haloce_mp_semirefined_r8.zip",
     "Universal_UI_Version_1.1.zip",
     "vcredist_x86.exe",
     "dxwebsetup.exe",
