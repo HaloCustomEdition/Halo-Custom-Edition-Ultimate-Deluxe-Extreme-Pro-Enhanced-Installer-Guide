@@ -9,6 +9,8 @@ Download and unzip the file bundles:
 * [Hakunamakuba's Halo CE Installer Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2IdqJMiWvElrJZsWGQ)
 * [Hakunamakuba's Halo CE Custom Map Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2Id_QX_N8atkTYvabw)
 
+See [Maps](MAPS.md) for preview images of the maps.
+
 ## Installation
 
 * Open the `halo ce installer bundle` folder.
