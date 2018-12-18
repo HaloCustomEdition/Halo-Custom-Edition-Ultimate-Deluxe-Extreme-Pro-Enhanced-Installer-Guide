@@ -1,3 +1,5 @@
+![halo_banner](assets/halo_banner.jpg)
+
 # Halo Custom Edition Ultimate Deluxe Extreme Pro Enhanced Installer Guide
 
 A short and concise guide for installing Halo Custom Edition with the latest and greatest features.
