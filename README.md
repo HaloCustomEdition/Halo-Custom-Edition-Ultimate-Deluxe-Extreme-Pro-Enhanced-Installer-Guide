@@ -81,7 +81,7 @@ Fixes game ui problems.
 
 Plugin that enables field of view (fov) configuration and other useful enhancements.
 
-* Unzip the `haloce_mp_semirefined_r8.7z` and copy the `*.map` file to `C:\Program Files (x86)\Microsoft Games\Halo Custom Edition\maps\`.
+* Unzip the `haloce_mp_semirefined_r8.zip` and copy the `*.map` files to `C:\Program Files (x86)\Microsoft Games\Halo Custom Edition\maps\`.
 
 Enhanced version of the default halo maps.
 
