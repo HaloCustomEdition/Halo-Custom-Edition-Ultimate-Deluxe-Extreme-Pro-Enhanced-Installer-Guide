@@ -8,8 +8,8 @@ A short and concise guide for installing Halo Custom Edition with the latest and
 
 Download and unzip the Halo CE file bundles:
 
-* [Hakunamakuba's Halo CE Installer Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2IdqJMiWvElrJZsWGQ) (~700MB, 10 min)
-* [Hakunamakuba's Halo CE Custom Map Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2Id_QX_N8atkTYvabw) (~2GB, 30 min)
+* [Halo CE Installer Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2IdqJMiWvElrJZsWGQ) (~700MB, 10 min)
+* [Halo CE Custom Map Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2Id_QX_N8atkTYvabw) (~2GB, 30 min)
 
 See [Maps](MAPS.md) for preview images of the maps.
 
@@ -142,6 +142,12 @@ You receive an error that states, "Unable to load HAC! Error 126".
 **Problem**
 
 Your anti-virus software is likely preventing HAC from loading. Add loader.dll to your white list or temporarily disable your anti-virus protection before you load Halo. If required, please consult the manual for your anti-virus software for the specifics on how to do this.
+
+## FAQ
+
+**Why did you make this? Isn't it illegal?**
+
+I grew up with Halo and am still amazed by what the Halo CE community is building. The game is over 17 years old and people are still enjoying it. I want to make sure you can play Halo CE forever and this is my contribution to this goal.
 
 ## Maintain files
 
