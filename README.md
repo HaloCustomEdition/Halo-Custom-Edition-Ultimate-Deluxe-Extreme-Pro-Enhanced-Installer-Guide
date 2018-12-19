@@ -6,10 +6,10 @@ A short and concise guide for installing Halo Custom Edition with the latest and
 
 ## Download
 
-Download and unzip the file bundles:
+Download and unzip the Halo CE file bundles:
 
-* [Hakunamakuba's Halo CE Installer Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2IdqJMiWvElrJZsWGQ) (~700MB)
-* [Hakunamakuba's Halo CE Custom Map Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2Id_QX_N8atkTYvabw) (~2GB)
+* [Hakunamakuba's Halo CE Installer Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2IdqJMiWvElrJZsWGQ) (~700MB, 10 min)
+* [Hakunamakuba's Halo CE Custom Map Bundle](https://1drv.ms/u/s!AlL62iEz1c7E2Id_QX_N8atkTYvabw) (~2GB, 30 min)
 
 See [Maps](MAPS.md) for preview images of the maps.
 
