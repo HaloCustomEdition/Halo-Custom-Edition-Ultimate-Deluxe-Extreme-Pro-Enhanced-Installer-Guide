@@ -90,7 +90,7 @@ Destiny
 ![dmt-goldeneye_stack-beta](assets/dmt-goldeneye_stack-beta.jpg)  
 dmt-goldeneye_stack-beta  
 
-![dmt-ohh-low planes](assets/dmt-ohh-low planes.jpg)  
+![dmt-ohh-low planes](assets/dmt-ohh-low%20planes.jpg)  
 dmt-ohh-low planes  
 
 ![downrush_h1.5](assets/downrush_h1.5.jpg)  
@@ -102,10 +102,10 @@ Fogujah_1.2
 ![foundation](assets/foundation.jpg)  
 foundation  
 
-![Garden CE](assets/Garden CE.jpg)  
+![Garden CE](assets/Garden%20CE.jpg)  
 Garden CE  
 
-![H2 Coagulation](assets/H2 Coagulation.jpg)  
+![H2 Coagulation](assets/H2%20Coagulation.jpg)  
 H2 Coagulation  
 
 ![h2-foundation](assets/h2-foundation.jpg)  
@@ -126,7 +126,7 @@ H2_Blood_Gulch_CE_V2
 ![H2_Momentum](assets/H2_Momentum.jpg)  
 H2_Momentum  
 
-![h3 foundry](assets/h3 foundry.jpg)  
+![h3 foundry](assets/h3%20foundry.jpg)  
 h3 foundry  
 
 ![hemoasis](assets/hemoasis.jpg)  
@@ -155,6 +155,9 @@ isolation
 
 ![kasheek_(starwars)](assets/kasheek_(starwars).jpg)  
 kasheek_(starwars)  
+
+![little_bigass_v5](assets/little_bigass_v5.jpg)  
+little_bigass_v5  
 
 ![lookout](assets/lookout.jpg)  
 lookout  
@@ -195,13 +198,22 @@ pirate_ship
 ![prime_c3](assets/prime_c3.jpg)  
 prime_c3  
 
+![rainbow-road](assets/rainbow-road.jpg)  
+rainbow-road  
+
 ![restless](assets/restless.jpg)  
 restless  
+
+![rev_beavercreek_cavebeta](assets/rev_beavercreek_cavebeta.jpg)  
+rev_beavercreek_cavebeta  
+
+![rev_valhalla_cavebeta](assets/rev_valhalla_cavebeta.jpg)  
+rev_valhalla_cavebeta  
 
 ![Runway](assets/Runway.jpg)  
 Runway  
 
-![Sciophobia v2](assets/Sciophobia v2.jpg)  
+![Sciophobia v2](assets/Sciophobia%20v2.jpg)  
 Sciophobia v2  
 
 ![seclusion](assets/seclusion.jpg)  
@@ -225,7 +237,7 @@ starwars-beta_9732
 ![sympathy_mp](assets/sympathy_mp.jpg)  
 sympathy_mp  
 
-![testrun v0.5](assets/testrun v0.5.jpg)  
+![testrun v0.5](assets/testrun%20v0.5.jpg)  
 testrun v0.5  
 
 ![the_land_of_hyrule_v0.2.1](assets/the_land_of_hyrule_v0.2.1.jpg)  
@@ -234,25 +246,31 @@ the_land_of_hyrule_v0.2.1
 ![thunderdometestmap_release](assets/thunderdometestmap_release.jpg)  
 thunderdometestmap_release  
 
-![Tlmp Lefty](assets/Tlmp Lefty.jpg)  
+![Tlmp Lefty](assets/Tlmp%20Lefty.jpg)  
 Tlmp Lefty  
 
 ![Train_Station](assets/Train_Station.jpg)  
 Train_Station  
 
-![Tusken Raid](assets/Tusken Raid.jpg)  
+![Tusken Raid](assets/Tusken%20Raid.jpg)  
 Tusken Raid  
 
 ![umt_archive](assets/umt_archive.jpg)  
 umt_archive  
 
+![viva_mexico](assets/viva_mexico.jpg)  
+viva_mexico  
+
 ![windfall_island_v.2](assets/windfall_island_v.2.jpg)  
 windfall_island_v.2  
 
-![Yoyorast Island V2](assets/Yoyorast Island V2.jpg)  
+![world_1-1](assets/world_1-1.jpg)  
+world_1-1  
+
+![Yoyorast Island V2](assets/Yoyorast%20Island%20V2.jpg)  
 Yoyorast Island V2  
 
-![Yoyorast Island](assets/Yoyorast Island.jpg)  
+![Yoyorast Island](assets/Yoyorast%20Island.jpg)  
 Yoyorast Island  
 
 ![Zanzibar_H2_v2](assets/Zanzibar_H2_v2.jpg)  
@@ -285,8 +303,8 @@ z_sanctuary_h2_pb2
 ![[H2]_warlock](assets/[H2]_warlock.jpg)  
 [H2]_warlock  
 
-![[h3] Imposing V2](assets/[h3] Imposing V2.jpg)  
-[h3] Imposing V2  
+![[h3] Imposing V2](assets/[h3]%20Imposing%20V2.jpg)  
+[h3] Imposing V2
 
 # Maintain file
 
@@ -294,7 +312,7 @@ Use the PowerShell script below to create the map list.
 
 ```powershell
 Get-ChildItem | Where-Object { $_.Extension -ne ".map" } | ForEach-Object {
-    Write-Host "![$($_.BaseName)](assets/$($_.Name))  "
+    Write-Host "![$($_.BaseName)](assets/$([uri]::EscapeUriString($_.Name)))  "
     Write-Host "$($_.BaseName)  "
     Write-Host ""
 }
