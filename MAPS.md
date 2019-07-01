@@ -1,309 +1,294 @@
 # Hakunamakuba's Halo CE Custom Map Bundle
 
-![Alerion](assets/Alerion.jpg)  
-Alerion  
+![Alerion](assets/Alerion.jpg)
+Alerion
 
-![anxiety](assets/anxiety.jpg)  
-anxiety  
+![anxiety](assets/anxiety.jpg)
+anxiety
 
-![aquarii_final](assets/aquarii_final.jpg)  
-aquarii_final  
+![aquarii_final](assets/aquarii_final.jpg)
+aquarii_final
 
-![Area52](assets/Area52.jpg)  
-Area52  
+![Area52](assets/Area52.jpg)
+Area52
 
-![Area53](assets/Area53.jpg)  
-Area53  
+![Area53](assets/Area53.jpg)
+Area53
 
-![Area54](assets/Area54.jpg)  
-Area54  
+![Area54](assets/Area54.jpg)
+Area54
 
-![Area55](assets/Area55.jpg)  
-Area55  
+![Area55](assets/Area55.jpg)
+Area55
 
-![asteroid](assets/asteroid.jpg)  
-asteroid  
+![asteroid](assets/asteroid.jpg)
+asteroid
 
-![battlecity_lvl1](assets/battlecity_lvl1.jpg)  
-battlecity_lvl1  
+![battlecity_lvl1](assets/battlecity_lvl1.jpg)
+battlecity_lvl1
 
-![battlecity_lvl22](assets/battlecity_lvl22.jpg)  
-battlecity_lvl22  
+![battlecity_lvl22](assets/battlecity_lvl22.jpg)
+battlecity_lvl22
 
-![battlecity_lvl9](assets/battlecity_lvl9.jpg)  
-battlecity_lvl9  
+![battlecity_lvl9](assets/battlecity_lvl9.jpg)
+battlecity_lvl9
 
-![battlecraft_hd](assets/battlecraft_hd.jpg)  
-battlecraft_hd  
+![battlecraft_hd](assets/battlecraft_hd.jpg)
+battlecraft_hd
 
-![bc_carousel_mp](assets/bc_carousel_mp.jpg)  
-bc_carousel_mp  
+![bc_carousel_mp](assets/bc_carousel_mp.jpg)
+bc_carousel_mp
 
-![bc_clearing_ground_mp](assets/bc_clearing_ground_mp.jpg)  
-bc_clearing_ground_mp  
+![bc_clearing_ground_mp](assets/bc_clearing_ground_mp.jpg)
+bc_clearing_ground_mp
 
-![Bigass](assets/Bigass.jpg)  
-Bigass  
+![Bigass](assets/Bigass.jpg)
+Bigass
 
-![Blackisland](assets/Blackisland.jpg)  
-Blackisland  
+![Blackisland](assets/Blackisland.jpg)
+Blackisland
 
-![Bloodrage](assets/Bloodrage.jpg)  
-Bloodrage  
+![Bloodrage](assets/Bloodrage.jpg)
+Bloodrage
 
-![bounce_arena](assets/bounce_arena.jpg)  
-bounce_arena  
+![bounce_arena](assets/bounce_arena.jpg)
+bounce_arena
 
-![bouncy](assets/bouncy.jpg)  
-bouncy  
+![bouncy](assets/bouncy.jpg)
+bouncy
 
-![bune](assets/bune.jpg)  
-bune  
+![bune](assets/bune.jpg)
+bune
 
-![Clantss](assets/Clantss.jpg)  
-Clantss  
+![Clantss](assets/Clantss.jpg)
+Clantss
 
-![cmt_g3_augur](assets/cmt_g3_augur.jpg)  
-cmt_g3_augur  
+![cmt_g3_augur](assets/cmt_g3_augur.jpg)
+cmt_g3_augur
 
-![cmt_Snow_Grove](assets/cmt_Snow_Grove.jpg)  
-cmt_Snow_Grove  
+![cmt_Snow_Grove](assets/cmt_Snow_Grove.jpg)
+cmt_Snow_Grove
 
-![Coldsnap](assets/Coldsnap.jpg)  
-Coldsnap  
+![Coldsnap](assets/Coldsnap.jpg)
+Coldsnap
 
-![colossus](assets/colossus.jpg)  
-colossus  
+![colossus](assets/colossus.jpg)
+colossus
 
-![corrupted](assets/corrupted.jpg)  
-corrupted  
+![corrupted](assets/corrupted.jpg)
+corrupted
 
-![deagle6_texture](assets/deagle6_texture.jpg)  
-deagle6_texture  
+![deagle6_texture](assets/deagle6_texture.jpg)
+deagle6_texture
 
-![deltaruined_intense](assets/deltaruined_intense.jpg)  
-deltaruined_intense  
+![deltaruined_intense](assets/deltaruined_intense.jpg)
+deltaruined_intense
 
-![Destiny](assets/Destiny.jpg)  
-Destiny  
+![Destiny](assets/Destiny.jpg)
+Destiny
 
-![dmt-goldeneye_stack-beta](assets/dmt-goldeneye_stack-beta.jpg)  
-dmt-goldeneye_stack-beta  
+![dmt-goldeneye_stack-beta](assets/dmt-goldeneye_stack-beta.jpg)
+dmt-goldeneye_stack-beta
 
-![dmt-ohh-low planes](assets/dmt-ohh-low%20planes.jpg)  
-dmt-ohh-low planes  
+![dmt-ohh-low planes](assets/dmt-ohh-low%20planes.jpg)
+dmt-ohh-low planes
 
-![downrush_h1.5](assets/downrush_h1.5.jpg)  
-downrush_h1.5  
+![downrush_h1.5](assets/downrush_h1.5.jpg)
+downrush_h1.5
 
-![Fogujah_1.2](assets/Fogujah_1.2.jpg)  
-Fogujah_1.2  
+![Fogujah_1.2](assets/Fogujah_1.2.jpg)
+Fogujah_1.2
 
-![foundation](assets/foundation.jpg)  
-foundation  
+![foundation](assets/foundation.jpg)
+foundation
 
-![Garden CE](assets/Garden%20CE.jpg)  
-Garden CE  
+![Garden CE](assets/Garden%20CE.jpg)
+Garden CE
 
-![H2 Coagulation](assets/H2%20Coagulation.jpg)  
-H2 Coagulation  
+![H2 Coagulation](assets/H2%20Coagulation.jpg)
+H2 Coagulation
 
-![h2-foundation](assets/h2-foundation.jpg)  
-h2-foundation  
+![h2-foundation](assets/h2-foundation.jpg)
+h2-foundation
 
-![h2-relic](assets/h2-relic.jpg)  
-h2-relic  
+![h2-relic](assets/h2-relic.jpg)
+h2-relic
 
-![H2_Backwoods](assets/H2_Backwoods.jpg)  
-H2_Backwoods  
+![H2_Backwoods](assets/H2_Backwoods.jpg)
+H2_Backwoods
 
-![h2_beaver_creek](assets/h2_beaver_creek.jpg)  
-h2_beaver_creek  
+![h2_beaver_creek](assets/h2_beaver_creek.jpg)
+h2_beaver_creek
 
-![H2_Blood_Gulch_CE_V2](assets/H2_Blood_Gulch_CE_V2.jpg)  
-H2_Blood_Gulch_CE_V2  
+![H2_Blood_Gulch_CE_V2](assets/H2_Blood_Gulch_CE_V2.jpg)
+H2_Blood_Gulch_CE_V2
 
-![H2_Momentum](assets/H2_Momentum.jpg)  
-H2_Momentum  
+![H2_Momentum](assets/H2_Momentum.jpg)
+H2_Momentum
 
-![h3 foundry](assets/h3%20foundry.jpg)  
-h3 foundry  
+![h3 foundry](assets/h3%20foundry.jpg)
+h3 foundry
 
-![hemoasis](assets/hemoasis.jpg)  
-hemoasis  
+![halo_banner](assets/halo_banner.jpg)
+halo_banner
 
-![Hugeass](assets/Hugeass.jpg)  
-Hugeass  
+![hemoasis](assets/hemoasis.jpg)
+hemoasis
 
-![Hydrolysis](assets/Hydrolysis.jpg)  
-Hydrolysis  
+![Hugeass](assets/Hugeass.jpg)
+Hugeass
 
-![hydro_generators](assets/hydro_generators.jpg)  
-hydro_generators  
+![Hydrolysis](assets/Hydrolysis.jpg)
+Hydrolysis
 
-![icefloe](assets/icefloe.jpg)  
-icefloe  
+![hydro_generators](assets/hydro_generators.jpg)
+hydro_generators
 
-![Immure2](assets/Immure2.jpg)  
-Immure2  
+![icefloe](assets/icefloe.jpg)
+icefloe
 
-![Invasion_of_twins](assets/Invasion_of_twins.jpg)  
-Invasion_of_twins  
+![Immure2](assets/Immure2.jpg)
+Immure2
 
-![isolation](assets/isolation.jpg)  
-isolation  
+![isolation](assets/isolation.jpg)
+isolation
 
-![kasheek_(starwars)](assets/kasheek_(starwars).jpg)  
-kasheek_(starwars)  
+![kasheek_(starwars)](assets/kasheek_(starwars).jpg)
+kasheek_(starwars)
 
-![little_bigass_v5](assets/little_bigass_v5.jpg)  
-little_bigass_v5  
+![little_bigass_v5](assets/little_bigass_v5.jpg)
+little_bigass_v5
 
-![lookout](assets/lookout.jpg)  
-lookout  
+![lookout](assets/lookout.jpg)
+lookout
 
-![lookout_classic](assets/lookout_classic.jpg)  
-lookout_classic  
+![lookout_classic](assets/lookout_classic.jpg)
+lookout_classic
 
-![matrixcreek_reloaded](assets/matrixcreek_reloaded.jpg)  
-matrixcreek_reloaded  
+![matrixcreek_reloaded](assets/matrixcreek_reloaded.jpg)
+matrixcreek_reloaded
 
-![MortalKombat](assets/MortalKombat.jpg)  
-MortalKombat  
+![MortalKombat](assets/MortalKombat.jpg)
+MortalKombat
 
-![Mystic](assets/Mystic.jpg)  
-Mystic  
+![Mystic](assets/Mystic.jpg)
+Mystic
 
-![nirvana_beta](assets/nirvana_beta.jpg)  
-nirvana_beta  
+![nirvana_beta](assets/nirvana_beta.jpg)
+nirvana_beta
 
-![Off_Groundv1](assets/Off_Groundv1.jpg)  
-Off_Groundv1  
+![Off_Groundv1](assets/Off_Groundv1.jpg)
+Off_Groundv1
 
-![olympus_mons](assets/olympus_mons.jpg)  
-olympus_mons  
+![olympus_mons](assets/olympus_mons.jpg)
+olympus_mons
 
-![opavo](assets/opavo.jpg)  
-opavo  
+![opavo](assets/opavo.jpg)
+opavo
 
-![overflow](assets/overflow.jpg)  
-overflow  
+![overflow](assets/overflow.jpg)
+overflow
 
-![phoenix3](assets/phoenix3.png)  
-phoenix3  
+![phoenix3](assets/phoenix3.png)
+phoenix3
 
-![pirate_ship](assets/pirate_ship.jpg)  
-pirate_ship  
+![pirate_ship](assets/pirate_ship.jpg)
+pirate_ship
 
-![prime_c3](assets/prime_c3.jpg)  
-prime_c3  
+![prime_c3](assets/prime_c3.jpg)
+prime_c3
 
-![rainbow-road](assets/rainbow-road.jpg)  
-rainbow-road  
+![rainbow-road](assets/rainbow-road.jpg)
+rainbow-road
 
-![restless](assets/restless.jpg)  
-restless  
+![restless](assets/restless.jpg)
+restless
 
-![rev_beavercreek_cavebeta](assets/rev_beavercreek_cavebeta.jpg)  
-rev_beavercreek_cavebeta  
+![Runway](assets/Runway.jpg)
+Runway
 
-![rev_valhalla_cavebeta](assets/rev_valhalla_cavebeta.jpg)  
-rev_valhalla_cavebeta  
+![Sciophobia v2](assets/Sciophobia%20v2.jpg)
+Sciophobia v2
 
-![Runway](assets/Runway.jpg)  
-Runway  
+![seclusion](assets/seclusion.jpg)
+seclusion
 
-![Sciophobia v2](assets/Sciophobia%20v2.jpg)  
-Sciophobia v2  
+![Snowcast](assets/Snowcast.jpg)
+Snowcast
 
-![seclusion](assets/seclusion.jpg)  
-seclusion  
+![Snowdrop](assets/Snowdrop.jpg)
+Snowdrop
 
-![Snowcast](assets/Snowcast.jpg)  
-Snowcast  
+![space](assets/space.jpg)
+space
 
-![Snowdrop](assets/Snowdrop.jpg)  
-Snowdrop  
+![space_dock](assets/space_dock.jpg)
+space_dock
 
-![space](assets/space.jpg)  
-space  
+![starwars-beta_9732](assets/starwars-beta_9732.jpg)
+starwars-beta_9732
 
-![space_dock](assets/space_dock.jpg)  
-space_dock  
+![sympathy_mp](assets/sympathy_mp.jpg)
+sympathy_mp
 
-![starwars-beta_9732](assets/starwars-beta_9732.jpg)  
-starwars-beta_9732  
+![testrun v0.5](assets/testrun%20v0.5.jpg)
+testrun v0.5
 
-![sympathy_mp](assets/sympathy_mp.jpg)  
-sympathy_mp  
+![the_land_of_hyrule_v0.2.1](assets/the_land_of_hyrule_v0.2.1.jpg)
+the_land_of_hyrule_v0.2.1
 
-![testrun v0.5](assets/testrun%20v0.5.jpg)  
-testrun v0.5  
+![thunderdometestmap_release](assets/thunderdometestmap_release.jpg)
+thunderdometestmap_release
 
-![the_land_of_hyrule_v0.2.1](assets/the_land_of_hyrule_v0.2.1.jpg)  
-the_land_of_hyrule_v0.2.1  
+![Tusken Raid](assets/Tusken%20Raid.jpg)
+Tusken Raid
 
-![thunderdometestmap_release](assets/thunderdometestmap_release.jpg)  
-thunderdometestmap_release  
+![umt_archive](assets/umt_archive.jpg)
+umt_archive
 
-![Tlmp Lefty](assets/Tlmp%20Lefty.jpg)  
-Tlmp Lefty  
+![viva_mexico](assets/viva_mexico.jpg)
+viva_mexico
 
-![Train_Station](assets/Train_Station.jpg)  
-Train_Station  
+![windfall_island_v.2](assets/windfall_island_v.2.jpg)
+windfall_island_v.2
 
-![Tusken Raid](assets/Tusken%20Raid.jpg)  
-Tusken Raid  
+![world_1-1](assets/world_1-1.jpg)
+world_1-1
 
-![umt_archive](assets/umt_archive.jpg)  
-umt_archive  
+![Yoyorast Island V2](assets/Yoyorast%20Island%20V2.jpg)
+Yoyorast Island V2
 
-![viva_mexico](assets/viva_mexico.jpg)  
-viva_mexico  
+![Yoyorast Island](assets/Yoyorast%20Island.jpg)
+Yoyorast Island
 
-![windfall_island_v.2](assets/windfall_island_v.2.jpg)  
-windfall_island_v.2  
+![zerohour_h1.5](assets/zerohour_h1.5.jpg)
+zerohour_h1.5
 
-![world_1-1](assets/world_1-1.jpg)  
-world_1-1  
+![ZO_Spirit_Temple](assets/ZO_Spirit_Temple.jpg)
+ZO_Spirit_Temple
 
-![Yoyorast Island V2](assets/Yoyorast%20Island%20V2.jpg)  
-Yoyorast Island V2  
+![z_coagulation_h2_pb2](assets/z_coagulation_h2_pb2.jpg)
+z_coagulation_h2_pb2
 
-![Yoyorast Island](assets/Yoyorast%20Island.jpg)  
-Yoyorast Island  
+![z_sanctuary_h2_pb2](assets/z_sanctuary_h2_pb2.jpg)
+z_sanctuary_h2_pb2
 
-![Zanzibar_H2_v2](assets/Zanzibar_H2_v2.jpg)  
-Zanzibar_H2_v2  
+![[h2]desolation](assets/%5Bh2%5Ddesolation.jpg)
+[h2]desolation
 
-![zerohour_h1.5](assets/zerohour_h1.5.jpg)  
-zerohour_h1.5  
+![[H2]_ascension](assets/%5BH2%5D_ascension.jpg)
+[H2]_ascension
 
-![ZO_Spirit_Temple](assets/ZO_Spirit_Temple.jpg)  
-ZO_Spirit_Temple  
+![[H2]_beavercreek](assets/%5BH2%5D_beavercreek.jpg)
+[H2]_beavercreek
 
-![z_coagulation_h2_pb2](assets/z_coagulation_h2_pb2.jpg)  
-z_coagulation_h2_pb2  
+![[H2]_Lockout](assets/%5BH2%5D_Lockout.jpg)
+[H2]_Lockout
 
-![z_sanctuary_h2_pb2](assets/z_sanctuary_h2_pb2.jpg)  
-z_sanctuary_h2_pb2  
+![[H2]_warlock](assets/%5BH2%5D_warlock.jpg)
+[H2]_warlock
 
-![[h2]desolation](assets/[h2]desolation.jpg)  
-[h2]desolation  
-
-![[H2]_ascension](assets/[H2]_ascension.jpg)  
-[H2]_ascension  
-
-![[H2]_beavercreek](assets/[H2]_beavercreek.jpg)  
-[H2]_beavercreek  
-
-![[H2]_Lockout](assets/[H2]_Lockout.jpg)  
-[H2]_Lockout  
-
-![[H2]_warlock](assets/[H2]_warlock.jpg)  
-[H2]_warlock  
-
-![[h3] Imposing V2](assets/[h3]%20Imposing%20V2.jpg)  
+![[h3] Imposing V2](assets/%5Bh3%5D%20Imposing%20V2.jpg)
 [h3] Imposing V2
 
 # Maintain file
