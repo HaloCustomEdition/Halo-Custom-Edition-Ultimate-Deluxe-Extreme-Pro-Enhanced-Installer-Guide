@@ -66,6 +66,12 @@ Clantss
 ![cmt_g3_augur](assets/cmt_g3_augur.jpg)
 cmt_g3_augur
 
+![CMT_G3_Ruins](assets/CMT_G3_Ruins.jpg)
+CMT_G3_Ruins
+
+![cmt_g3_vestigial](assets/cmt_g3_vestigial.jpg)
+cmt_g3_vestigial
+
 ![cmt_Snow_Grove](assets/cmt_Snow_Grove.jpg)
 cmt_Snow_Grove
 
@@ -95,6 +101,9 @@ dmt-ohh-low planes
 
 ![downrush_h1.5](assets/downrush_h1.5.jpg)
 downrush_h1.5
+
+![ewok](assets/ewok.jpg)
+ewok
 
 ![Fogujah_1.2](assets/Fogujah_1.2.jpg)
 Fogujah_1.2
@@ -135,6 +144,9 @@ halo_banner
 ![hemoasis](assets/hemoasis.jpg)
 hemoasis
 
+![homestead](assets/homestead.jpg)
+homestead
+
 ![Hugeass](assets/Hugeass.jpg)
 Hugeass
 
@@ -146,6 +158,9 @@ hydro_generators
 
 ![icefloe](assets/icefloe.jpg)
 icefloe
+
+![icelandic-tundra](assets/icelandic-tundra.jpg)
+icelandic-tundra
 
 ![Immure2](assets/Immure2.jpg)
 Immure2
@@ -195,6 +210,9 @@ phoenix3
 ![pirate_ship](assets/pirate_ship.jpg)
 pirate_ship
 
+![poq_ghost_town](assets/poq_ghost_town.jpg)
+poq_ghost_town
+
 ![prime_c3](assets/prime_c3.jpg)
 prime_c3
 
@@ -212,6 +230,9 @@ Sciophobia v2
 
 ![seclusion](assets/seclusion.jpg)
 seclusion
+
+![siege](assets/siege.jpg)
+siege
 
 ![Snowcast](assets/Snowcast.jpg)
 Snowcast

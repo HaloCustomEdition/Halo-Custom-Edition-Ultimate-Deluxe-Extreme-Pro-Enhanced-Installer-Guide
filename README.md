@@ -143,9 +143,17 @@ Your operating system likely needs to be updated. Download the Microsoft Visual 
 
 You receive an error that states, "Unable to load HAC! Error 126".
 
-**Problem**
+**Solution**
 
 Your anti-virus software is likely preventing HAC from loading. Add loader.dll to your white list or temporarily disable your anti-virus protection before you load Halo. If required, please consult the manual for your anti-virus software for the specifics on how to do this.
+
+**Problem**
+
+Loading the the optic packs throws an "Gathering Exception" error.
+
+**Solution**
+
+Run the `dxwebsetup.exe` setup.
 
 ## FAQ
 
