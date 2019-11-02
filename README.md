@@ -155,6 +155,14 @@ Loading the the optic packs throws an "Gathering Exception" error.
 
 Run the `dxwebsetup.exe` setup.
 
+**Problem**
+
+The error "A problem occurded initilaizing Direct3D ..." occurs.
+
+**Solution**
+
+The halo shortcut launches the game in hd. This might not be possibe. Run the game without shortcut.
+
 ## FAQ
 
 **Why did you make this? Isn't it illegal?**
