@@ -10,6 +10,8 @@ A short and concise guide for installing Halo Custom Edition with the latest and
 Keeping this guide here for archival purposes, thanks for your work! Please download from my repo:
 https://github.com/Leeskjold/Halo-Custom-Edition-Setup-UPDATED
 
+-Lee
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
